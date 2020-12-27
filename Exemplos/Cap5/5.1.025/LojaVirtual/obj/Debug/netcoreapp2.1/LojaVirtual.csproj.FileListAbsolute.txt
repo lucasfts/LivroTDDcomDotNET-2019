@@ -1,9 +1,0 @@
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap5\5.1.025\LojaVirtual\bin\Debug\netcoreapp2.1\LojaVirtual.deps.json
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap5\5.1.025\LojaVirtual\bin\Debug\netcoreapp2.1\LojaVirtual.dll
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap5\5.1.025\LojaVirtual\bin\Debug\netcoreapp2.1\LojaVirtual.pdb
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap5\5.1.025\LojaVirtual\obj\Debug\netcoreapp2.1\LojaVirtual.csprojAssemblyReference.cache
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap5\5.1.025\LojaVirtual\obj\Debug\netcoreapp2.1\LojaVirtual.AssemblyInfoInputs.cache
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap5\5.1.025\LojaVirtual\obj\Debug\netcoreapp2.1\LojaVirtual.AssemblyInfo.cs
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap5\5.1.025\LojaVirtual\obj\Debug\netcoreapp2.1\LojaVirtual.csproj.CoreCompileInputs.cache
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap5\5.1.025\LojaVirtual\obj\Debug\netcoreapp2.1\LojaVirtual.dll
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap5\5.1.025\LojaVirtual\obj\Debug\netcoreapp2.1\LojaVirtual.pdb

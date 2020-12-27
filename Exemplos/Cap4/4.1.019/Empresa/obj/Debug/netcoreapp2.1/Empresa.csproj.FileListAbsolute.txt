@@ -1,8 +1,0 @@
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap4\4.1.019\Empresa\bin\Debug\netcoreapp2.1\Empresa.deps.json
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap4\4.1.019\Empresa\bin\Debug\netcoreapp2.1\Empresa.dll
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap4\4.1.019\Empresa\bin\Debug\netcoreapp2.1\Empresa.pdb
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap4\4.1.019\Empresa\obj\Debug\netcoreapp2.1\Empresa.AssemblyInfoInputs.cache
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap4\4.1.019\Empresa\obj\Debug\netcoreapp2.1\Empresa.AssemblyInfo.cs
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap4\4.1.019\Empresa\obj\Debug\netcoreapp2.1\Empresa.csproj.CoreCompileInputs.cache
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap4\4.1.019\Empresa\obj\Debug\netcoreapp2.1\Empresa.dll
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap4\4.1.019\Empresa\obj\Debug\netcoreapp2.1\Empresa.pdb

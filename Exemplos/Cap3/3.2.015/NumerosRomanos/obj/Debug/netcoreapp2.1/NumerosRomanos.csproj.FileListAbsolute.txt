@@ -1,9 +1,0 @@
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap3\3.2.015\NumerosRomanos\bin\Debug\netcoreapp2.1\NumerosRomanos.deps.json
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap3\3.2.015\NumerosRomanos\bin\Debug\netcoreapp2.1\NumerosRomanos.dll
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap3\3.2.015\NumerosRomanos\bin\Debug\netcoreapp2.1\NumerosRomanos.pdb
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap3\3.2.015\NumerosRomanos\obj\Debug\netcoreapp2.1\NumerosRomanos.csprojAssemblyReference.cache
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap3\3.2.015\NumerosRomanos\obj\Debug\netcoreapp2.1\NumerosRomanos.AssemblyInfoInputs.cache
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap3\3.2.015\NumerosRomanos\obj\Debug\netcoreapp2.1\NumerosRomanos.AssemblyInfo.cs
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap3\3.2.015\NumerosRomanos\obj\Debug\netcoreapp2.1\NumerosRomanos.csproj.CoreCompileInputs.cache
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap3\3.2.015\NumerosRomanos\obj\Debug\netcoreapp2.1\NumerosRomanos.dll
-C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap3\3.2.015\NumerosRomanos\obj\Debug\netcoreapp2.1\NumerosRomanos.pdb

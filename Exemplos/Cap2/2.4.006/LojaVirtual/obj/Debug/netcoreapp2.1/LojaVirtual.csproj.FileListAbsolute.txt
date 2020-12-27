@@ -9,3 +9,4 @@ C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap2\2.4.006\LojaVir
 C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap2\2.4.006\LojaVirtual\obj\Debug\netcoreapp2.1\LojaVirtual.dll
 C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap2\2.4.006\LojaVirtual\obj\Debug\netcoreapp2.1\LojaVirtual.pdb
 C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap2\2.4.006\LojaVirtual\obj\Debug\netcoreapp2.1\LojaVirtual.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\LivroTDDcomDotNET-2019\Exemplos\Cap2\2.4.006\LojaVirtual\obj\Debug\netcoreapp2.1\LojaVirtual.csprojAssemblyReference.cache
